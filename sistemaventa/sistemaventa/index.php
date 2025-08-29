@@ -1,7 +1,7 @@
  <?php
 /**
  * Created by PhpStorm.
- * User: Salazar Phocco Yenifer Fiorela
+ * User: wilson paredes huacarpuma
  */
 include ('app/config.php');
 include ('layout/sesion.php');
